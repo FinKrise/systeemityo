@@ -1,0 +1,37 @@
+https://github.com/MikoRapo/Projektityo
+
+Palaute
+
+Kieliopillinen:
+	eurheilija --> e-urheilija
+	Toteutetaan koulun tarjoamaan web-hotelliin*,* joka on truudeli*,* jossa pystyy tukemaan PHP sekä MYSQL:lää
+	reenaaminen --> treenaaminen
+	Eurheilijoiden --> kilpapelaajien/E-urheilijoiden
+
+Sisältö:
+	+ Sisältöluettelo erittäin laaja ja sen sisältö hyvin jaettu numerottain
+	- "Ympäristö" osion nimi voisi korvata nimellä "käsitteet"
+	- Harjoituspäiväkirjan käsitteet voisi uudelleenselittää kertomalla tarkemmin sen toimivuudesta
+	+ ER-kaavio löytyy ja tietokantakaavio huomattavan laaja. Kuintenkin osasta puuttuu foreign key merkintä
+	+ Käyttötapausten määrä on laaja ja erittäin moni niistä sisältää näyttömallin
+	- Osio 9 Vaikuttaa erittäin sekalaiselta.
+	+ Tyyliopas löytyy ja sisältää hyvin tietoa ja ohjeita
+
+Ulkoasu: 
+	- Sisällysluettelo jatkuu toiselle sivulle, joten olisi järkevää tiivistää hieman luettelon sisältöä
+	- Toteutusympäristö ja siihen kuuluva teksti jakautuu kahdelle eri sivulle
+	- ER-kaaviosta puuttuu tapahtumien kuvaus
+	- Tietokantakaaviosta puuttuu muutama foreing key merkintä
+	- Tietoliikenneliittymät osios voisi jättää pois dokumentista kokonaan (ei sisällä tekstiä)
+	- Tyylioppaan ulkoasu eroaa huomattavasti dokumentin muusta sisällöstä (puuttuvat heading otsikot, jne)
+	- lomakkeellekkin voisi myös tehdä heading otsikon
+	- dokumentti sisältää huomattavan paljon puhekieltä. Kannattaa miettiä kieliasua
+
+Lisäykset:
+	- Tietokantakaaviosta puuttuu "päiväkirja" taulusta harjoittelun kuvausosio, sillä muuten sitä kysytään päiväkirjassa, mutta ei oteta talteen tietokannassa. Virhe 		korjattu prototyypin tietokannassa
+	- Nettisivun navigointiosiota uudelleensuunniteltu järkevämmäksi. Vasemmalle tulee valikkonappi, joka aukaisee sivun vasemmalle valikon. Tämän jälkeen tulee nettisivun 	logo/banner, joka toimii myös kotinappina
+	-Unenaika muutettu "nukkumaanmenoajaksi", sillä ei tarvita sekä nukkumaanmenoaikaa, että heräämisaikaa, jos meillä on sitä ennen unen määrä tunneissa. Muutos tehty 		prototyypin formissa
+	- Alkuperäisessä lomakesuunnitelmassa (käyttötapaus 4) käyttäjän piti valita itse lomakekohtainen päivämäärä. Mielestäni tärä on turha vaihe lomakkeessa, sillä 	tietokantaan pystyy helposti lisäämään lomakkeen täyttömäärä kysymättä itse opiskelijalta. 
+
+Tiivistelmä:
+	Systeemityön toiminnallisen määrittelyn dokumentti on hyvin laaja ja sisältää kaiken tarvittavan prototyypin toteuttamiseen. Dokumentti kuitenkin kärsii tyyliasun 	vaihtelevuudesta/puutteesta. Tämä on näkyvissä pahimmiten dokumentin loppuosiossa. Saattaako olla kiireen tai ajanpuutteen takia? Muutama parannus on tehty prototyypin 	toteutuksessa. Lisäksi itse tyylioppaan ohjeistus sai minut masentumaan.
